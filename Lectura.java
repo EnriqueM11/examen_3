@@ -12,7 +12,7 @@ public class Lectura {
 	String archivoCSV = "/Users/sistelcomunica/eclipse-workspace/examen_3/src/examen_3/emails.csv";
 	        String linea = "";
 	        String separador = ",";
-	        int filas_a_evaluar = 2;
+	        int filas_a_evaluar = 50;
 	        int contador=1;
 	        int digitos;
 	        
